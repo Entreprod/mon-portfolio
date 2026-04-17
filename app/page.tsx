@@ -42,8 +42,10 @@ export default function Portfolio() {
 
           <div className="flex items-center gap-8 text-sm">
             <a href="#accueil">Accueil</a>
+            <a href="#accueil2">A propos</a>
             <a href="#competences">Compétences</a>
             <a href="#projets">Projets</a>
+            <a href="#demos">Démos</a>
             <a href="#contact">Contact</a>
 
           </div>
@@ -103,7 +105,7 @@ export default function Portfolio() {
 
       
       {/* HERO 2 */}
-      <section id="accueil" className="min-h-screen flex items-center justify-center relative overflow-hidden">
+      <section id="accueil2" className="min-h-screen flex items-center justify-center relative overflow-hidden">
         {/* <div className="absolute inset-0 bg-[url('/hero-bg.jpg')] bg-cover bg-center opacity-30" /> */}
         <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97')] bg-cover bg-center opacity-30" />
         <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/20 via-black/60 to-cyan-500/20" />
@@ -122,7 +124,7 @@ export default function Portfolio() {
 
       
       {/* COMPÉTENCES */}
-      <section id="competences2" className="hero-bg min-h-screen flex items-center relative py-24"
+      <section id="competences" className="hero-bg min-h-screen flex items-center relative py-24"
                style={{ backgroundImage: "url('https://images.unsplash.com/photo-1558494949-ef010cbdcc31')" }}>
         <div className="absolute inset-0 bg-gradient-to-b from-black/70 to-black/70"></div>
         <div className="relative max-w-5xl mx-auto px-6 text-white">
@@ -158,7 +160,7 @@ export default function Portfolio() {
       
       
       {/* DEMOS */}
-      <section className="py-32 border-t border-zinc-800 relative overflow-hidden">
+      <section id="demos" className="py-32 border-t border-zinc-800 relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-cyan-500/10 to-emerald-500/10 blur-3xl"></div>
         <div className="max-w-4xl mx-auto px-6 text-center relative">
           <h2 className="text-5xl font-bold mb-8">Ce que je construis</h2>
