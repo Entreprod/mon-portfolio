@@ -110,7 +110,8 @@ export default function Portfolio() {
       
       {/* HERO 2 */}
       <section id="accueil" className="min-h-screen flex items-center justify-center relative overflow-hidden">
-        <div className="absolute inset-0 bg-[url('/hero-bg.jpg')] bg-cover bg-center opacity-30" />
+        {/* <div className="absolute inset-0 bg-[url('/hero-bg.jpg')] bg-cover bg-center opacity-30" /> */}
+        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97')] bg-cover bg-center opacity-30" />
         <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/20 via-black/60 to-cyan-500/20" />
 
         <div className="relative text-center px-6">
@@ -145,7 +146,7 @@ export default function Portfolio() {
       
       {/* COMPÉTENCES */}
       <section id="competences2" className="hero-bg min-h-screen flex items-center relative py-24"
-               style={{ backgroundImage: "url('https://picsum.photos/id/160/1920/1080')" }}>
+               style={{ backgroundImage: "url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97')" }}>
         <div className="absolute inset-0 bg-gradient-to-b from-black/70 to-black/70"></div>
         <div className="relative max-w-5xl mx-auto px-6 text-white">
           <h2 className="text-5xl font-bold text-center mb-16">Compétences</h2>
@@ -194,7 +195,7 @@ export default function Portfolio() {
       
       {/* CONTACT */}
       <section id="contact" className="hero-bg min-h-screen flex items-center relative py-24"
-               style={{ backgroundImage: "url('https://picsum.photos/id/1005/1920/1080')" }}>
+               style={{ backgroundImage: "url('https://images.unsplash.com/photo-1522071820081-009f0129c71c')" }}>
         <div className="absolute inset-0 bg-gradient-to-b from-black/70 to-black/70"></div>
         <div className="relative max-w-5xl mx-auto px-6 text-white text-center">
           <h2 className="text-5xl font-bold mb-8">Contact</h2>
