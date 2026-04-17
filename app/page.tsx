@@ -62,6 +62,37 @@ export default function Portfolio() {
             Je conçois des applications modernes, performantes et orientées produit.
           </p>
         </div>
+                  <div className="mb-8 inline-flex items-center gap-3 px-4 py-2 bg-zinc-900 rounded-full border border-zinc-700">
+            <span className="text-emerald-400">●</span>
+            <span className="text-sm tracking-widest">Disponible immédiatement - 78/92</span>
+          </div>
+
+          <h1 className="text-7xl md:text-8xl font-bold tracking-tighter mb-6">
+            Entreprod
+          </h1>
+          
+          <p className="text-3xl md:text-4xl text-zinc-400 mb-4">
+            Développeur Web &amp; Mobile Junior
+          </p>
+          
+          <p className="max-w-md mx-auto text-zinc-500 text-lg mb-12">
+            Bac+4 École d’Ingénieurs • React • Flutter • Next.js • React Native • Outils IA avancés
+          </p>
+
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <a 
+              href="#projets"
+              className="px-10 py-4 bg-white text-black font-medium rounded-2xl hover:bg-zinc-200 transition text-lg"
+            >
+              Voir mes projets
+            </a>
+            <a 
+              href="#contact"
+              className="px-10 py-4 border border-zinc-700 font-medium rounded-2xl hover:bg-zinc-900 transition text-lg"
+            >
+              Me contacter
+            </a>
+          </div>
       </section>
 
       {/* ABOUT */}
