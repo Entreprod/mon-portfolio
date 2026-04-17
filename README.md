@@ -21,6 +21,7 @@ L’ensemble des réalisations et des projets en cours est consultable sur [Inst
 
 ## Structure du projet
 
+```
 mon-portfolio/
 ├── app/
 │   ├── globals.css
@@ -32,6 +33,7 @@ mon-portfolio/
 ├── tailwind.config.ts
 ├── tsconfig.json
 └── README.md
+```
 
 ---
 
