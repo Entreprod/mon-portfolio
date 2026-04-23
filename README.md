@@ -12,9 +12,10 @@ L’ensemble des réalisations et des projets en cours est consultable sur [Inst
 
 ## Liens rapides
 
-- **GitHub** → [github.com/Entreprod](https://github.com/Entreprod)
-- **Instagram** → [instagram.com/Entreprod](https://www.instagram.com/Entreprod)
+- **GitHub** → [github.com/loangm](https://github.com/loangm)
 - **LinkedIn** → [linkedin.com/in/loanngm](https://www.linkedin.com/in/loanngm)
+- **LinkedIn Entreprod** → [linkedin.com/company/Entreprod](https://www.linkedin.com/company/Entreprod)
+- **Instagram Entreprod** → [instagram.com/Entreprod](https://www.instagram.com/Entreprod)
 
 -----
 
